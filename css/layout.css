@@ -1,0 +1,61 @@
+<style>
+table, th, td, tr {
+	border: 1px
+	solid black;
+}
+
+.signup {
+	background-color:lightblue;
+	background-position:fixed;
+	color:black;
+	text-align:center;
+	}
+
+.topnav {
+	background-color:grey;
+	background-position:float;
+	color:black;
+	text-align:right;
+}
+
+
+.footer {
+	background-color: Black;
+	background-position: float;
+	color: white;
+	text-align: center;
+	}
+
+.h1 {
+	background-color:white;
+	background-position:fixed;
+	color:black;
+	text-align:left;
+}
+
+.h2 {
+	background-color:white;
+	background-position:fixed;
+	color:black;
+	text-align:left;
+}
+.h3 {
+	background-color:white;
+	background-position:fixed;
+	color:black;
+	text-align:left;
+}
+.h4 {
+	background-color:white;
+	background-position:fixed;
+	color:black;
+	text-align:left;
+}
+.h5 {
+	background-color:white;
+	background-position:fixed;
+	color:black;
+	text-align:left;
+}
+
+</style>
